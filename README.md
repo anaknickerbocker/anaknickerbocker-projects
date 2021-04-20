@@ -2,7 +2,10 @@
 
 An index of my public repositories.
 
-## [FreeCodeCamp](https://www.freecodecamp.org/)
+## Projects from [FreeCodeCamp](https://www.freecodecamp.org/)
+
+### Frontend Development
+- [Random Quote Machine (React)](https://github.com/anaknickerbocker/random-quote-machine)
 
 ### APIs and Microservices
 
@@ -11,9 +14,6 @@ An index of my public repositories.
 - [Request Header Parser Microservice](https://github.com/anaknickerbocker/boilerplate-project-headerparser)
 - [Timestamp Microservice](https://github.com/anaknickerbocker/boilerplate-project-timestamp)
 - [URL Shortener Microservice](https://github.com/anaknickerbocker/boilerplate-project-urlshortener)
-
-### Frontend Development
-- https://github.com/anaknickerbocker/random-quote-machine
 
 ## Other Projects
 
