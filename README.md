@@ -4,6 +4,9 @@ An index of my public repositories.
 
 ## Projects from [FreeCodeCamp](https://www.freecodecamp.org/)
 
+### Full-Stack Development
+- [Like Service (React/Express)](https://github.com/anaknickerbocker/like-service)
+
 ### Frontend Development
 - [Random Quote Machine (React)](https://github.com/anaknickerbocker/random-quote-machine)
 
