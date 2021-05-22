@@ -12,6 +12,7 @@ An index of my public repositories.
 
 ### APIs and Microservices
 
+- [Exam Scores API (REST API that returns data from Server-Sent Events)](https://github.com/anaknickerbocker/exam-scores)
 - [Exercise Tracker API](https://github.com/anaknickerbocker/boilerplate-project-exercisetracker)
 - [File Metadata Microservice](https://github.com/anaknickerbocker/boilerplate-project-filemetadata)
 - [Request Header Parser Microservice](https://github.com/anaknickerbocker/boilerplate-project-headerparser)
