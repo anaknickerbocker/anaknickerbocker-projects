@@ -2,17 +2,22 @@
 
 An index of my public repositories.
 
-## Projects from [FreeCodeCamp](https://www.freecodecamp.org/)
+## Coding Challenges
 
 ### Full-Stack Development
 - [Like Service (React/Express)](https://github.com/anaknickerbocker/like-service)
+
+### APIs and Microservices
+
+- [Exam Scores API (REST API that returns data from Server-Sent Events)](https://github.com/anaknickerbocker/exam-scores)
+
+## Projects from [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ### Frontend Development
 - [Random Quote Machine (React)](https://github.com/anaknickerbocker/random-quote-machine)
 
 ### APIs and Microservices
 
-- [Exam Scores API (REST API that returns data from Server-Sent Events)](https://github.com/anaknickerbocker/exam-scores)
 - [Exercise Tracker API](https://github.com/anaknickerbocker/boilerplate-project-exercisetracker)
 - [File Metadata Microservice](https://github.com/anaknickerbocker/boilerplate-project-filemetadata)
 - [Request Header Parser Microservice](https://github.com/anaknickerbocker/boilerplate-project-headerparser)
