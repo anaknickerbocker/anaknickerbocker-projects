@@ -32,8 +32,8 @@ An index of my public repositories.
 
 ## Group Projects
 
-- [Hack the Gap 2019 - LittleFreeLibrary](https://github.com/littlefreelexicon/littlefreelibrary)
 - [Hack the Gap 2021 - PeaceOfMind](https://github.com/anaknickerbocker/peaceofmind)
+- [Hack the Gap 2019 - LittleFreeLibrary](https://github.com/littlefreelexicon/littlefreelibrary)
 
 ## Algorithms and Data Structures
 
