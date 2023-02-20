@@ -17,6 +17,10 @@ An index of my public repositories.
 - [Exam Scores API (REST API that returns data from Server-Sent Events)](https://github.com/anaknickerbocker/exam-scores)
 - [CLI Tool for getting Metro Transit bus times](https://github.com/anaknickerbocker/nextBus)
 
+## Games
+
+- [Guess the Number](https://github.com/anaknickerbocker/short-games/guess-the-number)
+
 ## Projects from [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ### Frontend Development
