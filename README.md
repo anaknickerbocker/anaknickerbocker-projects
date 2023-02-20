@@ -19,7 +19,7 @@ An index of my public repositories.
 
 ## Games
 
-- [Guess the Number](https://github.com/anaknickerbocker/short-games/guess-the-number)
+- [Guess the Number](https://github.com/anaknickerbocker/short-games/tree/main/guess-the-number)
 
 ## Projects from [FreeCodeCamp](https://www.freecodecamp.org/)
 
