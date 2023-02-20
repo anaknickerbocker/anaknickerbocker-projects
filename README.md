@@ -20,6 +20,7 @@ An index of my public repositories.
 ## Games
 
 - [Guess the Number](https://github.com/anaknickerbocker/short-games/tree/main/guess-the-number)
+- [Jumper Game](https://github.com/anaknickerbocker/short-games/tree/main/jumper-game)
 
 ## Projects from [FreeCodeCamp](https://www.freecodecamp.org/)
 
