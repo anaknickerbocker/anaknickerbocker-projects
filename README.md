@@ -2,6 +2,13 @@
 
 An index of my public repositories.
 
+<a href="https://github.com/anaknickerbocker/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anaknickerbocker&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/anaknickerbocker">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaknickerbocker&layout=compact" />
+</a>
+
 ## Coding Challenges
 
 ### Full-Stack Development
